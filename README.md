@@ -9,6 +9,10 @@ If you have any questions or concerns, please open a new thread on
 [Piazza](https://piazza.com/utoronto.ca/winter2023/cscd70/home) so that all your
 colleagues can benefit.
 
+## CheckList
+
+- [x] [Assignment1-Introduction_to_LLVM FunctionInfo](./Assignment1-Introduction_to_LLVM/FunctionInfo/)
+
 ## Acknowledgement
 
 Thanks to Professor Gennady Pekhimenko, Professor Nandita Vijaykumar, and many
